@@ -1,0 +1,38 @@
+Mar 04, 2019 3:13:12 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 04, 2019 4:01:53 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 04, 2019 4:04:19 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 04, 2019 4:07:43 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 2:13:04 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 2:24:38 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 2:28:02 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 2:28:16 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 2:42:05 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 2:45:20 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 2:55:40 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 3:10:21 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 3:10:31 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 3:12:32 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 05, 2019 3:17:36 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 06, 2019 11:42:31 AM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 06, 2019 11:52:45 AM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 06, 2019 12:08:05 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
+Mar 06, 2019 12:09:27 PM mySQL.Database TerminatedDB
+INFO: Connection Closed.
